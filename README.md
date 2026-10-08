@@ -1,10 +1,10 @@
 # Agentic Harness
 
-[![Status: Beta](https://img.shields.io/badge/status-beta-orange)](.agentic/PRODUCT.md#current-status)
-[![Catalog validation](https://github.com/powerpuff-kitty/agentic-harness/actions/workflows/content-validation.yml/badge.svg)](https://github.com/powerpuff-kitty/agentic-harness/actions/workflows/content-validation.yml)
-[![Agent native](https://img.shields.io/badge/agent--native-AGENTS.md-5c6ac4)](AGENTS.md)
-
 A vendor-neutral project-context contract and catalog for coding-agent workflows.
+
+[![Status: Beta](https://img.shields.io/badge/status-beta-orange)](.agentic/PRODUCT.md#current-status)
+[![Catalog validation](https://github.com/powerpuff-kitty/agentic-harness/actions/workflows/content-validation.yml/badge.svg?branch=main&event=push)](https://github.com/powerpuff-kitty/agentic-harness/actions/workflows/content-validation.yml)
+[![Agent native](https://img.shields.io/badge/agent--native-AGENTS.md-5c6ac4)](AGENTS.md)
 
 Keep product truth, architecture, design intent and security expectations in your repository instead of repeatedly restating them to each agent. Root `AGENTS.md` is a compact router; durable context lives under `.agentic/`.
 
